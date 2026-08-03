@@ -450,21 +450,8 @@ frb-repeater-classification/
     ├── roc_curves/
     ├── model_comparisons/
     └── shap_plots/
+
 ```
-
-For a cleaner repository, rename:
-
-```text
-Untitled116_updated_FRB (1).ipynb
-```
-
-to:
-
-```text
-FRB_Repeater_Classification.ipynb
-```
-
----
 
 ## 📦 Generated Output Files
 
